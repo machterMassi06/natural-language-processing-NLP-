@@ -1,0 +1,5 @@
+# NLP Tasks
+
+Natural Language Processing (NLP) allows computers to work with and understand human language. There are many different NLP tasks, including **text classification**, where text is assigned to a category such as spam or non-spam; **sentiment analysis**, which identifies whether a text is positive, negative, or neutral; **Named Entity Recognition (NER)**, which extracts entities such as people, organizations, locations, and dates; **text summarization**, which creates a shorter version (resume) of a document; **machine translation**, which translates text from one language to another; **question answering**, which provides answers based on a given context; and **text generation**, which generates new text such as emails, articles, or chatbot responses. NLP can also be used for **language detection**, **information extraction**, **tokenization**, and **text similarity**, which are useful for tasks such as extracting specific information, preparing text for further processing, or comparing different texts.
+
+These tasks can be implemented using different approaches, including **Rule-Based techniques, Machine Learning, and Deep Learning**.
