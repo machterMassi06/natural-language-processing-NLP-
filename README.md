@@ -33,4 +33,3 @@ This repository contains my notes, exercises, notebooks, and small projects as I
 Build a solid understanding of NLP concepts through practice and real-world projects.
 
 ---
-
