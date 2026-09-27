@@ -74,3 +74,10 @@ Once a model is trained and evaluated, it can be deployed in real-world applicat
 * Hugging Face
 
 ---
+
+## Sources
+
+* [Codebasics NLP Tutorials](https://github.com/codebasics/nlp-tutorials)
+* [Official NLP Documentation](https://www.nltk.org/book/)
+
+---
