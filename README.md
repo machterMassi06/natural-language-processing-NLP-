@@ -42,8 +42,9 @@ Text preprocessing transforms text into a format that is easier to analyze and m
 
 > see notebooks (tutorials/examples) from []() ... []()
 
-Feature engineering converts text into numerical representations (vectors) that machine learning models can understand. Common methods include:
+Also called Text representation, Feature engineering converts text into numerical representations (vectors) that machine learning models can understand. Common methods include:
 
+* Label & One-Hot Encoding (not used here): These techniques are mainly designed for small, discrete categorical variables in tabular data. Label Encoding assigns a number to each category, while One-Hot Encoding creates a separate binary column for each category. In NLP, however, text data contains a large and variable vocabulary, and each document may contain hundreds of words. Applying label or one-hot encoding directly to words would create a very high-dimensional, sparse representation and would ignore semantic relationships between terms. For this reason, this learning path focuses on methods such as Bag of Words, TF-IDF, and Word Embeddings instead.
 * Bag of Words
 * TF-IDF (TERM FREQUENCY/ INVERSE DOC FREQUENCY)
 * Word Embeddings
