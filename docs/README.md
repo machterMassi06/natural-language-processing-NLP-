@@ -12,6 +12,8 @@ This folder contains the main notes and reference documents for the NLP learning
 
 ### 3. Text preprocessing / Named Entity Recognition
 - [ner.md](ner.md) - introduction to Named Entity Recognition, examples, and use cases.
+- [stop_words.md](stop_words.md) - Stop words . 
+
 
 ### 2. Feature engineering
 - [bag_of_words.md](bag_of_words.md) - introduction to the Bag of Words method.
