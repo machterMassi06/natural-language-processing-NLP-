@@ -9,15 +9,11 @@ This folder contains the main notes and reference documents for the NLP learning
 - [nlp_tasks.md](nlp_tasks.md) - summary of the main NLP tasks and their use cases.
 - [NLP pipeline](https://www.geeksforgeeks.org/nlp/natural-language-processing-nlp-pipeline/) - general steps to build an NLP pipeline.
 
-
-### 3. Text preprocessing / Named Entity Recognition
+### 2. Text preprocessing / Named Entity Recognition
 - [ner.md](ner.md) - introduction to Named Entity Recognition, examples, and use cases.
-- [stop_words.md](stop_words.md) - Stop words . 
+- [stop_words.md](stop_words.md) - Stop words .
 
-
-### 2. Feature engineering
+### 3. Feature engineering
 - [bag_of_words.md](bag_of_words.md) - introduction to the Bag of Words method.
-- TF-IDF
+- [tf-idf.md](tf-idf.md) - a concise introduction to TF-IDF weighting.
 - Word embeddings
-
-

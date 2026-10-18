@@ -40,7 +40,7 @@ Text preprocessing transforms text into a format that is easier to analyze and m
 
 ### Step 4: Feature Engineering
 
-> see notebooks (tutorials/examples) from []() ... []()
+> see notebooks (tutorials/examples) from [05_bag_of_words](/05_bag_of_words/) ... [/08_embeddings](/08_embeddings/)
 
 Also called Text representation, Feature engineering converts text into numerical representations (vectors) that machine learning models can understand. Common methods include:
 
