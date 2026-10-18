@@ -15,5 +15,6 @@ This folder contains the main notes and reference documents for the NLP learning
 
 ### 3. Feature engineering
 - [bag_of_words.md](bag_of_words.md) - introduction to the Bag of Words method.
+- [bag-of-n-grams](bag-of-n-grams.md) - introduction to the Bag of n grams method.
 - [tf-idf.md](tf-idf.md) - a concise introduction to TF-IDF weighting.
 - Word embeddings
